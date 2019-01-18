@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/lihanguang/dev_kit/Android/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Android/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../../Android/flutter_engine/shell/platform/android" />
+    </SOURCES>
+  </library>
+</component>
