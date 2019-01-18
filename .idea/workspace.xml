@@ -4,7 +4,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b6dfe99-5353-4469-9752-f5f1297ed4b0" name="Default Changelist" comment="" />
+    <list default="true" id="5b6dfe99-5353-4469-9752-f5f1297ed4b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -30,7 +33,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="dart" value="37" />
+          <entry key="dart" value="38" />
           <entry key="iml" value="1" />
           <entry key="java" value="7" />
           <entry key="kt" value="4" />
@@ -41,7 +44,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="Dart" value="37" />
+          <entry key="Dart" value="38" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="7" />
           <entry key="Kotlin" value="4" />
@@ -53,7 +56,7 @@
         <counts>
           <entry key="dart" value="2736" />
           <entry key="kt" value="1" />
-          <entry key="md" value="428" />
+          <entry key="md" value="435" />
           <entry key="yaml" value="9" />
         </counts>
       </usages-collector>
@@ -61,7 +64,7 @@
         <counts>
           <entry key="Dart" value="2736" />
           <entry key="Kotlin" value="1" />
-          <entry key="Markdown" value="428" />
+          <entry key="Markdown" value="435" />
           <entry key="YAML" value="9" />
         </counts>
       </usages-collector>
@@ -69,11 +72,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ext_platform_channel.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#164#181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="238">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
                 <element signature="e#166#186#0" expanded="true" />
               </folding>
@@ -81,15 +96,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="64" column="15" lean-forward="true" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+            <state relative-caret-position="204">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding>
                 <element signature="e#736#744#0" expanded="true" />
                 <element signature="e#829#830#0" expanded="true" />
                 <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#0#5772#0" expanded="true" />
                 <element signature="e#0#5759#0" expanded="true" />
                 <element signature="e#165#185#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -145,6 +161,9 @@
       <replace>ExtStandardMethodCodec</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -155,8 +174,8 @@
         <option value="$PROJECT_DIR$/lib/rxadapter_extension.dart" />
         <option value="$PROJECT_DIR$/lib/ext_platform_channel.dart" />
         <option value="$PROJECT_DIR$/lib/core.dart" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/example/lib/main.dart" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -180,6 +199,9 @@
         </expanded-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -269,7 +291,7 @@
     <frame x="1920" y="180" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2911302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2911302" />
       <window_info id="Designer" order="1" />
       <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
@@ -410,17 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ext_platform_channel.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-            <element signature="e#164#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../Android/flutter/bin/cache/pkg/sky_engine/lib/core/errors.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
@@ -463,10 +474,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Android/flutter/packages/flutter/lib/src/services/message_codec.dart">
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+        <state relative-caret-position="238">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#166#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ext_platform_channel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#164#181#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -482,14 +506,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Android/flutter/packages/flutter/lib/src/services/message_codec.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="64" column="15" lean-forward="true" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+        <state relative-caret-position="204">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding>
             <element signature="e#736#744#0" expanded="true" />
             <element signature="e#829#830#0" expanded="true" />
             <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#0#5772#0" expanded="true" />
             <element signature="e#0#5759#0" expanded="true" />
             <element signature="e#165#185#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -498,16 +530,6 @@
             <element signature="e#7644#7652#0" expanded="true" />
             <element signature="e#7740#7741#0" expanded="true" />
             <element signature="e#7793#7794#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="e#166#186#0" expanded="true" />
           </folding>
         </state>
       </provider>

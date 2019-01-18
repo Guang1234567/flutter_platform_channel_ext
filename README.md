@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-`io.flutter.plugin.common.StandardMessageCodec` in android cannot serialize the instance of class that like  `Class People` below:
+`io.flutter.plugin.common.StandardMessageCodec` in Flutter cannot serialize the instance of class that like  `Class People` below:
 
 ```java
 class People implements FlutterParcelable {
